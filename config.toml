@@ -46,29 +46,29 @@ paginate = "10"
   homeText = "Binario" # Home node text
 
 [Params.Social]
-  email = "example@example.com"
-  facebook = "username"
-  twitter = "username"
-  telegram = "username"
-  instagram = "username"
-  pinterest = "username"
-  vk = "username"
-  linkedin = "username"
-  github = "username"
-  gitlab = "username"
-  stackoverflow = "numberid"
-  mastodon = "https://some.instance/@username"
-  medium = "username"
+  email = "caamorimcoelho@gmail.com"
+  #facebook = "username"
+  twitter = "amorimcoelho"
+  #telegram = "username"
+  #instagram = "username"
+  #pinterest = "username"
+  #vk = "username"
+  linkedin = "carlos-amorim-a277249"
+  github = "camurim"
+  #gitlab = "username"
+  #stackoverflow = "numberid"
+  #mastodon = "https://some.instance/@username"
+  #medium = "username"
 
 [Params.Share] # Entry Share block
-  facebook = true
+  facebook = false
   twitter = true
-  reddit = true
-  telegram = true
+  reddit = false
+  telegram = false
   linkedin = true
-  vk = true
-  pocket = true
-  pinterest = true
+  vk = false
+  pocket = false
+  pinterest = false
 
 # Web App Manifest settings
 # https://www.w3.org/TR/appmanifest/
