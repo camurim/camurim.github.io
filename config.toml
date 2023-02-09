@@ -1,4 +1,4 @@
 baseURL = "https://camurim.github.io/"
 languageCode = "en-us"
 title = "Camurim's Website"
-theme = 'ananke'
+theme = 'coder'
