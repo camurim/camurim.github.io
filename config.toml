@@ -1,5 +1,5 @@
 baseURL = "https://camurim.github.io/"
 languageCode = "en-us"
 title = "Camurim's Website"
-theme = 'hugo-coder'
 themesDir = "themes"
+theme = 'hugo-coder'
