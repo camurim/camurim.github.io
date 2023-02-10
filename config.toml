@@ -1,6 +1,6 @@
 baseURL = "https://carlosamorim.dev.br/"
 languageCode = "en-us"
-title = "Carlos Amorim"
+title = "Carlos Amorim - Code snippets and Articles"
 themesDir = "themes"
 theme = 'binario'
 
