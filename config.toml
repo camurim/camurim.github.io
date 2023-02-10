@@ -20,7 +20,7 @@ paginate = "10"
   columns = 2 # Set the number of cards columns. Possible values: 1, 2, 3
   mainSections = ["post"] # Set main page sections
   dateFormat = "January 02, 2006" # Change the format of dates
-  colorTheme = "" # dark-green, dark-blue, dark-red, dark-violet
+  colorTheme = "dark-green" # dark-green, dark-blue, dark-red, dark-violet
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
   mainMenuAlignment = "right" # Align main menu (desktop version) to the right side
@@ -31,7 +31,7 @@ paginate = "10"
   mathjax = true # Enable MathJax for all site pages
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path. Optional
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
-  hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
+  hideNoPostsWarning = true # Don't show no posts empty state warning in main page, if true
 
 [Params.Entry]
   meta = ["date", "categories", "tags"] # Enable meta fields in given order
@@ -61,13 +61,13 @@ paginate = "10"
   #medium = "username"
 
 [Params.Share] # Entry Share block
-  facebook = false
+  facebook = true
   twitter = true
-  reddit = false
-  telegram = false
+  reddit = true
+  telegram = true
   linkedin = true
   vk = false
-  pocket = false
+  pocket = true
   pinterest = false
 
 # Web App Manifest settings
