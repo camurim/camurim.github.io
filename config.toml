@@ -43,7 +43,7 @@ paginate = "10"
 
 [Params.Breadcrumb]
   enable = true # Enable breadcrumb block globally
-  homeText = "Binario" # Home node text
+  homeText = "Home" # Home node text
 
 [Params.Social]
   email = "caamorimcoelho@gmail.com"
