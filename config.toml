@@ -1,18 +1,18 @@
 baseURL = "https://camurim.github.io/"
 languageCode = "en-us"
-title = "Camurim's Website"
+title = "Carlos Amorim"
 themesDir = "themes"
 theme = 'binario'
 
 paginate = "10"
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
+  name = "Carlos Amorim"
+  bio = "Artigos e projetos da minha autoria"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
+  description = "Artigos e projetos da minha autoria" # Site Description. Used in meta description
   copyright = "Binario" # Copyright holder, otherwise will use .Site.Title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
