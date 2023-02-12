@@ -61,7 +61,7 @@ Os dois primeiros, dificilmente serão lembrados por algum leitor deste artigo, 
 
 Os ascensoristas são "fósseis vivos", remanescentes de um tempo em que os elevadores possuíam portas pantográficas que podiam, literalmente, guilhotinar as mãos de um operador incauto. Com os atuais elevadores com controles eletrônicos eles perderam a razão de existir e são mantidos por força da tradição ou por conveniência (...política, quando se trata do setor público).
 
-De forma análoga, bancários vivem inquietos sobe a ameaçadora sombra da automação, frentistas só preservaram seus empregos até hoje por força de uma lei e os operadores de caixas de supermercado acompanham, cheio de receio, as melhorias técnicas dos equipamentos de auto-atendimento. 
+De forma análoga, bancários vivem inquietos sob a ameaçadora sombra da automação, frentistas só preservaram seus empregos até hoje por força de uma lei e os operadores de caixas de supermercado acompanham, cheio de receio, as melhorias técnicas dos equipamentos de auto-atendimento. 
 
 A lógica é simples: Se seu trabalho pode ser desempenhado total ou em grande parte por uma máquina, provavelmente não é uma função de alto valor agregado.
 
