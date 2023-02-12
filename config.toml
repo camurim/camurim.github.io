@@ -12,7 +12,7 @@ paginate = "10"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "Artigos e projetos da minha autoria" # Site Description. Used in meta description
+  description = "Artigos e projetos de minha autoria" # Site Description. Used in meta description
   copyright = "Carlos Amorim" # Copyright holder, otherwise will use .Site.Title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
