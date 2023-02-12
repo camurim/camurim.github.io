@@ -7,6 +7,6 @@ draft: true
 
 
 
-Na idade média, os profissionais encarregados da construão eram reputados como "artesãos"
+Na idade média, os profissionais que hoje são conhecidos como "pedreiros" eram reputados como "artesãos". De fato, antes dos
 
 
