@@ -7,6 +7,6 @@ draft: true
 
 
 
-Na idade média, os profissionais encarregados de construir de casas a castelos eram reputados como "artesãos"
+Na idade média, os profissionais encarregados da construão eram reputados como "artesãos"
 
 
