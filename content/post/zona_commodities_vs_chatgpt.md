@@ -1,6 +1,7 @@
 ---
 title: "Zona de Commodities vs ChatGPT"
 date: 2023-02-10T13:06:52-03:00
+tags: [chatgpt, commodity, noob, iniciante, mercado]
 draft: false
 ---
 

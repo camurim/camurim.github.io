@@ -8,7 +8,7 @@ paginate = "10"
 
 [Author] # Used in authorbox
   name = "Carlos Amorim"
-  bio = "Artigos e projetos da minha autoria"
+  bio = "Analista de sistemas com mais de duas décadas de experiência, em empresas dos mais diversos portes e naturezas."
   avatar = "img/avatar.png"
 
 [Params]
