@@ -7,6 +7,6 @@ draft: true
 
 
 
-Na idade média, os profissionais que hoje são conhecidos como "pedreiros" eram reputados como "artesãos". De fato, antes dos materiais e técnicas de construção modernos, o trabalho dos construtores era muito mais
+Na idade média, os profissionais que hoje são conhecidos como "pedreiros" eram reputados como "artesãos". De fato, antes dos materiais e técnicas de construção modernos, o trabalho dos construtores era muito mais "artístico" do que técnico.
 
 
