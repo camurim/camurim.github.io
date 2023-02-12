@@ -4,7 +4,7 @@ date: 2023-02-10T13:06:52-03:00
 draft: false
 ---
 
-#chatgpt #zonadecommodities #noob #veteranos #principiantes
+
 
 ## O que é a "Zona de Commodities"?
 
@@ -12,13 +12,13 @@ O significado dicionarizado de *commodity* é "tudo aquilo que se apresenta em e
 
 Dito isso, pode parecer estranho utilizar termos como "estado bruto" ou "pouco valor agregado" quando nos referimos ao desenvolvimento de softwares, já que, tal atividade sempre foi notária por exigir mão de obra altamente especializada.
 
-Como quase todo assunto complexo, para dar início a esta discussão, precisamos nos voltar para passado para entender o que está por vir. 
+Isso posto, como quase todo assunto complexo, este que tratarei neste artigo, exige que voltemos nossos olhos para passado para entender o que está por vir. 
 
 Na linha do tempo da história da informática, o uso doméstico dos computadores vem bem após o seu emprego militar, acadêmico e corporativo, e por isso, não é de se espantar que os primeiros programas desenvolvidos objetivassem atender estes nichos (com exceções de alguns joguinhos - como *Tennis for Two* e *Zork* - que os primeiros *nerds* criaram entre uma xícara de café e outra).
 
-Entretanto, com a massificação da computação pessoal e com o advento da Internet, os rudimentos da programação, assim como inesgotáveis fontes de "inspiração", tornaram-se acessíveis a um grupo muito maior de pessoas. Como consequência direta disso, um sem-número de novas *software houses* ou "fábricas de softwares" (eu tenho um problema pessoal e conceitual com este termo, mas isso é assunto para outro artigo...) surgiram, e nesta batida, um coluvião sistemas integrados, Contábeis, para Gestão de RH, de Frente de Loja, ERPs, CRMs, etc... inundaram o mercado.
+Entretanto, com a massificação da computação pessoal e com o advento da Internet, os rudimentos da programação, assim como inesgotáveis fontes de "inspiração", tornaram-se acessíveis a um grupo muito maior de pessoas. Como consequência direta disso, um sem-número de novas *software houses* ou "fábricas de softwares" (eu tenho um problema pessoal e conceitual com este termo, mas isso é assunto para outro artigo...) surgiram, e nesta batida, um coluvião de sistemas integrados, Contábeis, para Gestão de RH, de Frente de Loja, ERPs, CRMs, etc... inundaram o mercado.
 
-A famosa "lei da utilidade marginal" preconiza que o primeiro biscoito de um grande pacote, tem enorme valor objetivo para quem está com fome, mas a curva descrita por esta cifra verga-se para baixo a medida que a pessoa fica saciada, tendendo a zero. Outrossim, seguindo a tradição dos pioneiros, a esmagadora maioria das *software houses* que surgiram no Brasil (com raras e honrosas exceções, como a Fácil Informática, cujo o fundador, Carlos José Pereira, desenvolveu o editor de textos "Fácil", voltado para o uso pessoal, famoso nacionalmente nas décadas de 80 e 90) se concentraram em desenvolver aplicações para o mercado corporativo, e isso, de certa forma, "commoditizou" tais produtos, pois  as tendências humanas à indolência e à usura levaram tais empresas a se tornarem grandes "clonadoras" de soluções consagradas.
+Não demorou para que a novíssima indústria de softwares começasse a sentir os efeitos das inevitáveis leis de mercado.  A famosa "lei da utilidade marginal" preconiza que o primeiro biscoito de um grande pacote, tem enorme valor objetivo para quem está com fome, mas a curva descrita por esta cifra verga-se para baixo a medida que a pessoa fica saciada, tendendo a zero. De tal sorte que, seguindo a tradição dos pioneiros, a esmagadora maioria das *software houses* que surgiram no Brasil (com raras e honrosas exceções, como a Fácil Informática, cujo o fundador, Carlos José Pereira, desenvolveu o editor de textos "Fácil", voltado para o uso pessoal, famoso nacionalmente nas décadas de 80 e 90) se concentrou em desenvolver aplicações para o mercado corporativo, e isso, de certa forma, "commoditizou" tais produtos, pois  as tendências humanas à indolência e à usura, aliadas a um conjunto discreto de necessidades a serem atendidas, levaram tais empresas a se tornarem grandes "clonadoras" de soluções consagradas.
 
 Ainda mais preocupante do que a realidade de organizações que se dedicam quase que exclusivamente a replicação de softwares que já existem aos borbotões no mercado, é a situação dos profissionais que só trabalham desenvolvendo CRUD's e desenhando relatórios. Se você se encaixa nesta descrição, pode estar certo que encontra-se preso no *"inception"* da commoditização do desenvolvimento de *softwares*, ou seja, seu trabalho consiste em construir as partes mais desvalorizadas de um todo que já não possui muito valor agregado, é a commodity dentro da commodity.
 
@@ -72,7 +72,7 @@ Arrisco dizer que, pelo menos nas próximas duas décadas, não veremos  intelig
 
 ## Últimas palavras
 
-Se você se sentiu ofendido por algumas das palavras expressas neste texto, peço perdão, não foi esta a minha intenção. Aconselho ler com paciência, talvez o que você entendeu não seja, de fato, o que está escrito. Todas as idéias aqui expressas são fruto de mais de duas décadas trabalhando com análise e desenvolvimento de sistemas, aonde pude observar tecnologias promissoras vindo e indo, metodologias que afirmavam ser a última bala de prata se mostrando problemáticas quando aplicadas em produção, altas e baixas do mercado, promessas cumpridas e descumpridas, e por aí vai...
+Se você se sentiu ofendido por algumas das palavras expressas neste texto, peço em primeiro lugar, que releia o texto com cuidado, e procure captar as reais intenções por trás das letras, e em segundo lugar, peço perdão, pois pode ser que, de fato, eu não tenha sido hábil o suficiente para colocar em forma palavras meus pensamentos. Todas as idéias aqui expressas são fruto de mais de duas décadas trabalhando com análise e desenvolvimento de sistemas, aonde pude observar tecnologias promissoras vindo e indo, metodologias que afirmavam ser a última bala de prata se mostrando problemáticas quando aplicadas em produção, altas e baixas do mercado, promessas cumpridas e descumpridas, e por aí vai...
 
 
 
