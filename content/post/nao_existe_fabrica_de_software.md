@@ -11,7 +11,7 @@ Na idade média, os profissionais que hoje são conhecidos como "pedreiros" eram
 
 Entretanto, apesar das facilidades contemporâneas, arrisco dizer que, qualquer um que tiver a oportunidade de acompanhar de perto a labuta de um pedreiro, enxergará lampejos do artesão do passado.
 
-Efetivamente, apesar do tempo decorrido desde que o primeiro homem aprendeu a cortar pedras e de todo aparato atual, as idiossincrasias próprias do oficio dos pedreiros tornaram muito difícil convertê-lo em uma atividade completamente fabril.
+Efetivamente, apesar do tempo transcorrido desde que o primeiro homem aprendeu a cortar pedras e de todo aparato atual, as idiossincrasias próprias do oficio dos pedreiros tornaram muito difícil convertê-lo em uma atividade completamente fabril.
 
 ## Não foi por falta de tentativas...
 
