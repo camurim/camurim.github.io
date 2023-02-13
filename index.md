@@ -5,4 +5,4 @@ org_count: 60
 permalink: /
 ---
 
-Please, go to: https://carlosamorim.dev.br
+Please head to [My New Site](https://carlosamorim.dev.br)
