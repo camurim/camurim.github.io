@@ -1,7 +1,8 @@
 ---
+layout: home
 title: "Índice"
-date: 2023-02-13T15:26:52-03:00
-draft: false
+org_count: 60
+permalink: /
 ---
 
 Please, go to: https://carlosamorim.dev.br
