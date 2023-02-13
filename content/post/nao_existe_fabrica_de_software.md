@@ -7,7 +7,7 @@ draft: false
 
 ## Dos artesãos do passado aos pedreiros do presente
 
-Na idade média, os profissionais que hoje são conhecidos como "pedreiros" eram reputados como "artesãos". De fato, antes dos materiais e técnicas de construção modernos, um bom construtor precisava ser dotado de um tipo de senssibilidade própria dos artistas. 
+Na idade média, os profissionais que hoje são conhecidos como "pedreiros" eram reputados como "artesãos". De fato, antes dos materiais e técnicas de construção modernos, um bom construtor precisava ser dotado de um tipo de sensibilidade própria dos artistas. 
 
 Entretanto, apesar das facilidades contemporâneas, arrisco dizer que, qualquer um que tiver a oportunidade de acompanhar de perto a labuta de um pedreiro, enxergará lampejos do artesão do passado.
 
@@ -17,7 +17,7 @@ Efetivamente, apesar do tempo decorrido desde que o primeiro homem aprendeu a co
 
 Desde que as primeiras equipes de desenvolvedores se formaram, houveram inúmeras tentativas, algumas mais bem sucedidas e outras menos, de adotar alguma encarnação do “fordismo” como meio de organizar suas atividades.
 
-Não critico tais esforços, nem vejo-os como intrissicamente negativos, mas no intento de transpor técnicas aplicadas ao chão de fábrica para a realidade do desenvolvimento de sistemas, muitos equívocos foram cometidos, destarte, por mais estranho que isto soe para os não habituados com suas peculiaridades, este é um dos ramos mais “artesanais” da informática.
+Não critico tais esforços, nem vejo-os como intrinsecamente negativos, mas no intento de transpor técnicas aplicadas ao chão de fábrica para a realidade do desenvolvimento de sistemas, muitos equívocos foram cometidos, destarte, por mais estranho que isto soe para os não habituados com suas peculiaridades, este é um dos ramos mais “artesanais” da informática.
 
 ## O Desenvolvedor é um artesão moderno
 
@@ -25,13 +25,13 @@ Do trabalhador de fábrica não são exigidas qualidades como capacidade de cont
 
 Por isso, o termo “Fábrica de Softwares” costuma induzir ao erro quem não conhece sua real natureza. E tal erro não é inofensivo, pois clientes e gestores podem subestimar ou cultivar noções equivocadas das capacidades de ação e de cumprimento de prazos das equipes de desenvolvimento.
 
-## Os artesão podem, e devem, seguir metodologias e cumprir prazos!
+## Os artesãos podem, e devem, seguir metodologias e cumprir prazos!
 
 Não digo com tudo isso que os desenvolvedores devam ser “espíritos livres” - vivendo vidas errantes, vendendo suas “artes” na praia e comendo do que a natureza lhes fornece - bem longe disso!
 
 Os artesãos medievais tinham que dar satisfação aos seus contratantes, apresentar-lhes previsões de custos e cumprir prazos!
 
-Assim sendo, considero uma tolice se opor a aplicação de metodologias de projeto! Qualquer profissional que se prese deve ficar atento aos recursos consumidos, ao tempo investido, as “features” implementadas, ao controle de qualidade, etc... 
+Assim sendo, considero uma tolice se opor a aplicação de metodologias de projeto! Qualquer profissional que se preze deve ficar atento aos recursos consumidos, ao tempo investido, as *“features”* implementadas, ao controle de qualidade, etc... 
 
 Ainda assim, é preciso aceitar que a realidade tem potência própria, e por isso, não há regulamento, sistemática, procedimento ou metodologia que justaponha a natureza artística do trabalho do desenvolvedor.
 
