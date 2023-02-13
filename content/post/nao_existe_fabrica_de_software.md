@@ -11,7 +11,7 @@ Na idade média, os profissionais que hoje são conhecidos como "pedreiros" eram
 
 Entretanto, apesar das facilidades contemporâneas, arrisco dizer que, qualquer um que tiver a oportunidade de acompanhar de perto a labuta de um pedreiro, enxergará lampejos do artesão do passado.
 
-Efetivamente, apesar do tempo decorrido desde que o primeiro homem aprendeu a cortar pedras e de todo aparato atual, as idiossincrasias próprias do oficio dos pedreiros tornam muito difícil convertê-lo em uma atividade completamente fabril.
+Efetivamente, apesar do tempo decorrido desde que o primeiro homem aprendeu a cortar pedras e de todo aparato atual, as idiossincrasias próprias do oficio dos pedreiros tornaram muito difícil convertê-lo em uma atividade completamente fabril.
 
 ## Não foi por falta de tentativas...
 
@@ -21,7 +21,7 @@ Não critico tais esforços, nem vejo-os como intrissicamente negativos, mas no 
 
 ## O Desenvolvedor é um artesão moderno
 
-Do trabalhador de fábrica não são exigidas qualidades como capacidade de contornar problemas, criatividade, espirito inovador, etc... Não há espaço no trabalho desempenhado em uma indústria para soluções que podem mudar o ritmo ou a direção da linha de montagem. Todavia, tais elementos estão presentes - e não poucas vezes, são bem vindos - em equipes de desenvolvimento.
+Do trabalhador de fábrica não são exigidas qualidades como capacidade de contornar problemas, criatividade, espirito inovador, etc... Não há espaço no trabalho desempenhado em uma indústria para soluções que possam mudar o ritmo ou a direção da linha de montagem. Todavia, tais elementos estão presentes - e não poucas vezes, são bem vindos - em equipes de desenvolvimento.
 
 Por isso, o termo “Fábrica de Softwares” costuma induzir ao erro quem não conhece sua real natureza. E tal erro não é inofensivo, pois clientes e gestores podem subestimar ou cultivar noções equivocadas das capacidades de ação e de cumprimento de prazos das equipes de desenvolvimento.
 
@@ -34,3 +34,7 @@ Os artesãos medievais tinham que dar satisfação aos seus contratantes, aprese
 Assim sendo, considero uma tolice se opor a aplicação de metodologias de projeto! Qualquer profissional que se prese deve ficar atento aos recursos consumidos, ao tempo investido, as “features” implementadas, ao controle de qualidade, etc... 
 
 Ainda assim, é preciso aceitar que a realidade tem potência própria, e por isso, não há regulamento, sistemática, procedimento ou metodologia que justaponha a natureza artística do trabalho do desenvolvedor.
+
+**Para se aprofundar:**
+
+- [Os pilares da terra: Volume único ](https://www.amazon.com.br/Os-Pilares-Terra-Ken-Follett/dp/8532527698)
