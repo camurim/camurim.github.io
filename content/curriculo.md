@@ -94,12 +94,24 @@ Participei do projeto de implantação do SAP desde a etapa de *“sizing”*. C
 - Implantação de metodoligia de controle de versão e rastreamento de alterações e correções.
 - Contribuição para a adoção e implantação de metodologias ágeis de desenvolvimento (SCRUM).
 
+## Hard Skills
+
+- Inglês (Lê, Ouve, Escreve);
+
+## Soft Skills
+
+- Criatividade;
+- Clareza ao comunicar idéias;
+- Iniciativa;
+- Espirito de equipe;
+
 ## Interesses
 
 - Desenvolvimento nas linguagens, Python, Java, C++, Rust e GO;
 - Bancos de Dados Relacionais, Objeto-Relacionais e Não Relacionais;
 - Backend e desenvolvimento de frameworks;
 - Ciência e Engenharia de Dados;
+- Cloud computing;
 - I.A e Aprendizado de Máquina;
 - Microserviços, Docker, Swarm, Kubernetes, Apache Kafka;
 - Eletrônica Analógica e Digital;
