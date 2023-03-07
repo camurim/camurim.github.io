@@ -1,7 +1,7 @@
 ---
 title: "Mensurar Tempo de Execução de uma rotina em Java"
 date: 2023-03-07T14:12:35-03:00
-tags: []
+tags: [development, java]
 draft: false
 ---
 
